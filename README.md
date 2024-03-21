@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/GuyCiterme/guydemo/_apis/build/status%2Fguycabana.pipelines-java?branchName=main)](https://dev.azure.com/GuyCiterme/guydemo/_build/latest?definitionId=22&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
